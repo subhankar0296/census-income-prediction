@@ -26,5 +26,4 @@ Three distinct algorithms were evaluated using classification accuracy:
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/subhankar0296/census-income-prediction.git](https://github.com/subhankar0296/census-income-prediction.git)
-   cd census-income-prediction
+   git clone https://github.com/subhankar0296/census-income-prediction.git
